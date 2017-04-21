@@ -1,0 +1,10 @@
+.project
+.classpath
+.settings
+target
+.metadata
+/bin/
+/poc/
+/output/
+*.fpr
+*.fpr.scan
